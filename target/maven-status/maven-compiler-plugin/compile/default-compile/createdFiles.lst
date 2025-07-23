@@ -1,0 +1,7 @@
+com/loginapp/SignupServlet.class
+com/loginapp/crud/EditServlet.class
+com/loginapp/LoginServlet.class
+com/loginapp/Connect.class
+com/loginapp/crud/InsertServlet.class
+com/loginapp/crud/DeleteServlet.class
+com/loginapp/crud/UpdateServlet.class
